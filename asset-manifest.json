@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ingrid-react/static/css/main.456471a1.css",
-    "main.js": "/ingrid-react/static/js/main.6e420d4d.js",
-    "static/media/ingridp.JPG": "/ingrid-react/static/media/ingridp.a1bce0b4c791466f8f1c.JPG",
-    "static/media/arriba.png": "/ingrid-react/static/media/arriba.f6afa9c60b027369f79b.png",
-    "static/media/misscan.png": "/ingrid-react/static/media/misscan.d62a0972f3172710638f.png",
-    "static/media/viplant.png": "/ingrid-react/static/media/viplant.994c6cdcace6ffc3e2fc.png",
-    "index.html": "/ingrid-react/index.html",
-    "main.456471a1.css.map": "/ingrid-react/static/css/main.456471a1.css.map",
-    "main.6e420d4d.js.map": "/ingrid-react/static/js/main.6e420d4d.js.map"
+    "main.css": "./static/css/main.d4062cc5.css",
+    "main.js": "./static/js/main.0a2ec912.js",
+    "static/media/ingridp.JPG": "./static/media/ingridp.a1bce0b4c791466f8f1c.JPG",
+    "static/media/arriba.png": "./static/media/arriba.f6afa9c60b027369f79b.png",
+    "static/media/misscan.png": "./static/media/misscan.d62a0972f3172710638f.png",
+    "static/media/viplant.png": "./static/media/viplant.994c6cdcace6ffc3e2fc.png",
+    "index.html": "./index.html",
+    "main.d4062cc5.css.map": "./static/css/main.d4062cc5.css.map",
+    "main.0a2ec912.js.map": "./static/js/main.0a2ec912.js.map"
   },
   "entrypoints": [
-    "static/css/main.456471a1.css",
-    "static/js/main.6e420d4d.js"
+    "static/css/main.d4062cc5.css",
+    "static/js/main.0a2ec912.js"
   ]
 }
