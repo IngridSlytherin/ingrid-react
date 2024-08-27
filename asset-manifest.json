@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ingrid-react/static/css/main.456471a1.css",
+    "main.js": "/ingrid-react/static/js/main.6e420d4d.js",
+    "static/media/ingridp.JPG": "/ingrid-react/static/media/ingridp.a1bce0b4c791466f8f1c.JPG",
+    "static/media/arriba.png": "/ingrid-react/static/media/arriba.f6afa9c60b027369f79b.png",
+    "static/media/misscan.png": "/ingrid-react/static/media/misscan.d62a0972f3172710638f.png",
+    "static/media/viplant.png": "/ingrid-react/static/media/viplant.994c6cdcace6ffc3e2fc.png",
+    "index.html": "/ingrid-react/index.html",
+    "main.456471a1.css.map": "/ingrid-react/static/css/main.456471a1.css.map",
+    "main.6e420d4d.js.map": "/ingrid-react/static/js/main.6e420d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.456471a1.css",
+    "static/js/main.6e420d4d.js"
+  ]
+}
